@@ -98,8 +98,8 @@ gbtree:基于树的模型，gblinear: 线性模型
 
 ## 杂记
 
-![image-20210422214301427](C:\Users\33309\AppData\Roaming\Typora\typora-user-images\image-20210422214301427.png)
+![image](https://user-images.githubusercontent.com/75007778/116177389-4dd0a200-a746-11eb-9580-3e8f02a7fb2e.png)
 
-![image-20210422214319340](C:\Users\33309\AppData\Roaming\Typora\typora-user-images\image-20210422214319340.png)
+![image](https://user-images.githubusercontent.com/75007778/116177426-57f2a080-a746-11eb-975d-75c372010460.png)
 
-![image-20210422214326760](C:\Users\33309\AppData\Roaming\Typora\typora-user-images\image-20210422214326760.png)
+![image](https://user-images.githubusercontent.com/75007778/116177456-62ad3580-a746-11eb-8a8f-906a39a16c42.png)
